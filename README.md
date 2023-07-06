@@ -1,3 +1,1 @@
-# PigGameJS
-
-My first JS small project
+# PigGame game.
